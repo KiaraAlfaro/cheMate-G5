@@ -188,6 +188,17 @@
         "precio": 1000
     },
     {
+        "id": "bombilla-05",
+        "titulo": "Bombilla 05",
+        "imagen": "./img/bombillas/04.jpg",
+        "categoria": {
+            "nombre": "Bombillas",
+            "id": "bombillas"
+        },
+        "descripcion": "Bombillas de Acero Inoxidable: Elegancia y Comodidad. Cada bombilla es una síntesis de diseño refinado y funcionalidad, elevando tu experiencia de mate a nuevas alturas.",
+        "precio": 1000
+    },
+    {
         "id": "matero-01",
         "titulo": "Matero 01",
         "imagen": "./img/materos/01.png",
