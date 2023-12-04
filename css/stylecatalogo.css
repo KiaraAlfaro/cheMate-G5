@@ -16,11 +16,9 @@
 h1, h2, h3, h4, h5, h6, p, a, input, textarea, ul {
     margin: 0;
     padding: 0;
+    color: white;
 }
 
-body {
-    margin-top: 105px;
-}
 
 ul {
     list-style-type: none;
@@ -332,8 +330,25 @@ footer a {
 }
 
 
+.contenedor-port{
 
+    background-image: url(/img/portada/portada-2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 400px;
+    width: 100%;
+    text-align: center;
+    
+}
 
+.cnt-2-port{
+    background-color: rgba(0, 0, 0, 0.514);
+    height: 400px;
+    width: 100%;
+    padding-top: 9%;
+    
+}
 
 
 @media screen and (max-width: 850px) {
