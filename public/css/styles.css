@@ -156,9 +156,8 @@ body{
 .footer-container {
   display: flex;
   justify-content: space-around;
-  background-color: #000; /* Cambiado a negro */
   padding: 20px;
-  background-color: #5F6F52 ;
+  background-color: #5F6F52  ;
 }
 
 .footer-column {
