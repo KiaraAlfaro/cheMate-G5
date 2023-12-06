@@ -176,7 +176,7 @@ h5 {
 
 a {
   text-decoration: none;
-  color: #fff; /* Cambiado a blanco */
+  color: #fff; 
 }
 
 
@@ -186,7 +186,7 @@ a {
 }
 
 .navbar-nav.ms-auto .nav-item {
-  margin-right: 10px; /* Espacio entre elementos */
+  margin-right: 10px; 
 }
 
 .navbar-nav.ms-auto .nav-link {
